@@ -64,7 +64,7 @@
   },
   "homepage": "https://docs.relaycorp.tech/relaynet-pong/",
   "dependencies": {
-    "@relaycorp/relaynet-core": "^1.4.6",
+    "@relaycorp/relaynet-core": "^1.4.7",
     "@relaycorp/relaynet-pohttp": "^1.0.1",
     "axios": "^0.19.1",
     "binary-parser": "^1.5.0",
